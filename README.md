@@ -25,5 +25,7 @@
   1. Checks whether two vertices are connected or not
 - Best First Search :
   1. Checks whether two vertices are connected or not
-- Dijekstra Algorithm : 1. Guarantees the shortest path between two vertices in a weighted and non weighted graph 2. Checks whether two vertices are connected or not
+- Dijekstra Algorithm : 
+  1. Guarantees the shortest path between two vertices in a weighted and non weighted graph 
+  2. Checks whether two vertices are connected or not
   NOTE: All four algorithms can traverse and search a graph and they all can be adjusted to do more things than what's been mentioned
